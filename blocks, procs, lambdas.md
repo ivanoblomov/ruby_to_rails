@@ -1,7 +1,7 @@
 # Blocks, Procs, and Lambdas
 
 1. Blocks
-    * https://github.com/spreemo/chewy/blob/7d84e26ff9548af781074250c0810029d47b68cf/app/controllers/admin/billing_controller.rb#L42-L49
+    * https://github.com/spreemo/chewy/blob/7d84e26ff9548af781074250c0810029d47b68cf/spec/controllers/admin/carriers_controller_spec.rb
     * https://github.com/spreemo/chewy/blob/7d84e26ff9548af781074250c0810029d47b68cf/app/models/study.rb#L1144-L1146
 2. Procs: validations
     * https://github.com/spreemo/chewy/blob/c9bfce6a31f16dbe31f456820d061260b7adf316/app/models/authorization.rb#L26
