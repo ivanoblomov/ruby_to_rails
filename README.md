@@ -15,3 +15,7 @@ Labs for Codeacademy's [Learn Ruby](https://www.codecademy.com/learn/ruby) Sylla
     * https://github.com/spreemo/chewy/blob/a3fef9b157845226b927857b2525fddf3f338a97/app/models/user.rb#L211
 4. Extra credit: Procs vs Lambdas
     * http://awaxman11.github.io/blog/2013/08/05/what-is-the-difference-between-a-block/
+
+## [Object-Oriented Programming I](https://www.codecademy.com/courses/ruby-beginner-en-MFiQ6/0/1?curriculum_id=5059f8619189a5000201fbcb)
+
+1. [Commands::Billcom::SyncCommand#call](https://github.com/spreemo/chewy/blob/master/app/commands/billcom/sync_command.rb#L5-L15)
