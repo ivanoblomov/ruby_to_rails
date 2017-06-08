@@ -21,3 +21,5 @@ Labs for Codeacademy's [Learn Ruby](https://www.codecademy.com/learn/ruby) Sylla
 1. [CorporateParent](https://github.com/spreemo/chewy/blob/master/app/models/corporate_parent.rb)
 
 2. [Admin::DoctorsController](https://github.com/spreemo/chewy/blob/master/app/controllers/admin/doctors_controller.rb)
+
+3. [AdminReportJob](https://github.com/spreemo/chewy/blob/master/app/jobs/admin_report_job.rb)
