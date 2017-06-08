@@ -19,3 +19,5 @@ Labs for Codeacademy's [Learn Ruby](https://www.codecademy.com/learn/ruby) Sylla
 ## [Object-Oriented Programming I](https://www.codecademy.com/courses/ruby-beginner-en-MFiQ6/0/1?curriculum_id=5059f8619189a5000201fbcb)
 
 1. [CorporateParent](https://github.com/spreemo/chewy/blob/master/app/models/corporate_parent.rb)
+
+2. [Admin::DoctorsController](https://github.com/spreemo/chewy/blob/master/app/controllers/admin/doctors_controller.rb)
