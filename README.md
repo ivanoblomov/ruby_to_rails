@@ -18,4 +18,4 @@ Labs for Codeacademy's [Learn Ruby](https://www.codecademy.com/learn/ruby) Sylla
 
 ## [Object-Oriented Programming I](https://www.codecademy.com/courses/ruby-beginner-en-MFiQ6/0/1?curriculum_id=5059f8619189a5000201fbcb)
 
-1. [Commands::Billcom::SyncCommand#call](https://github.com/spreemo/chewy/blob/master/app/commands/billcom/sync_command.rb#L5-L15)
+1. [Commands::Billcom::SyncBillsCommand#call](https://github.com/spreemo/chewy/blob/master/app/commands/billcom/sync_bills_command.rb#L4-L10)
