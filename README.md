@@ -25,6 +25,6 @@ Tutorials based on Codeacademy's [Learn Ruby](https://www.codecademy.com/learn/r
 ## [Object-Oriented Programming II](https://www.codecademy.com/courses/ruby-beginner-en-zfe3o/0/1?curriculum_id=5059f8619189a5000201fbcb)
 
 1. [`public`](https://github.com/spreemo/chewy/search?utf8=✓&q=public&type=) vs [`private`](https://github.com/spreemo/chewy/search?utf8=✓&q=private&type=)
-2. [`attr_reader`]((https://github.com/spreemo/chewy/search?utf8=✓&q=attr_reader&type=)), [`attr_writer`]((https://github.com/spreemo/chewy/search?utf8=✓&q=attr_writer&type=)), [`attr_accessor`]((https://github.com/spreemo/chewy/search?utf8=✓&q=attr_accessor&type=))
+2. [`attr_reader`](https://github.com/spreemo/chewy/search?utf8=✓&q=attr_reader&type=), [`attr_writer`](https://github.com/spreemo/chewy/search?utf8=✓&q=attr_writer&type=), [`attr_accessor`](https://github.com/spreemo/chewy/search?utf8=✓&q=attr_accessor&type=)
 3. [`module`]((https://github.com/spreemo/chewy/search?utf8=✓&q=module&type=))
 4. Mixins
