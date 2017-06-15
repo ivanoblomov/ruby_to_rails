@@ -19,17 +19,12 @@ Labs for Codeacademy's [Learn Ruby](https://www.codecademy.com/learn/ruby) Sylla
 ## [Object-Oriented Programming I](https://www.codecademy.com/courses/ruby-beginner-en-MFiQ6/0/1?curriculum_id=5059f8619189a5000201fbcb)
 
 1. [CorporateParent](https://github.com/spreemo/chewy/blob/master/app/models/corporate_parent.rb)
-
 2. [Admin::DoctorsController](https://github.com/spreemo/chewy/blob/master/app/controllers/admin/doctors_controller.rb)
-
 3. [AdminReportJob](https://github.com/spreemo/chewy/blob/master/app/jobs/admin_report_job.rb)
 
 ## [Object-Oriented Programming II](https://www.codecademy.com/courses/ruby-beginner-en-zfe3o/0/1?curriculum_id=5059f8619189a5000201fbcb)
 
 1. `public` vs `private`
-
 2. `attr_reader`, `attr_writer`, `attr_accessor`
-
 3. `module`
-
 4. Mixins
