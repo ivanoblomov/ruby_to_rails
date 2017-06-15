@@ -1,6 +1,6 @@
 # ruby_to_rails
 
-Labs for Codeacademy's [Learn Ruby](https://www.codecademy.com/learn/ruby) Syllabus
+Tutorials based on Codeacademy's [Learn Ruby](https://www.codecademy.com/learn/ruby) Syllabus
 
 ## [Blocks, Procs, and Lambdas](https://www.codecademy.com/courses/ruby-beginner-en-L3ZCI/0/1?curriculum_id=5059f8619189a5000201fbcb)
 
